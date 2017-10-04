@@ -1,6 +1,5 @@
 #Requires -Version 3.0
 #Requires -Module PowerNSX
-#Requires -Module ImportExcel
 
 <#
     Script gets NSX Load Balancer information and exports them to an excel file
